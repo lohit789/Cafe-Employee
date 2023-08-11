@@ -1,3 +1,19 @@
+
+The Application has been developed start from scratch  with npx create-react-app
+
+Steps to Install the Node modules and run the Application
+
+step1:cafe-employee\server>  Install Node Modules with npm Install command
+step2: Run the server with the command npm start so that the server will start and run on the browser with Port number 3000 
+   for cafePage and Employee details which will be running in the backend 
+step3: \cafe-employee> Install Node Modules with npm Install command
+step4: once all the Installation is done then run the frontend application with command npm start and run on the browser with Port number 3001 
+
+All the CRUD operations is done for both the pages as per the requirement shared in the documents with Add New Record, Edit Record, Update Record and Delete Record Using AG-Grid requirement. 
+  For Front End I have Used: ReactJS, React-router for views, Redux for the Store management, Material-Ui as CSS Framework and for Tables I have used AG-Grid. 
+ other supporting features also has been Implemented like  Pagination, filter, sorting.
+Along with this, the required screenshot has been taken and Uploaded in the Repo itself.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

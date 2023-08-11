@@ -1,0 +1,110 @@
+{
+  "Employee": [
+    {
+      "name": "arun",
+      "email": "test@testing.com",
+      "phone": "23213123",
+      "gender": "",
+      "daysworked": "23",
+      "caféname": "test arun",
+      "": "male",
+      "id": 1
+    },
+    {
+      "name": "vcvdfgsdf",
+      "email": "vxcvvcx@fhffgh.com",
+      "phone": "5654654",
+      "gender": "",
+      "daysworked": "545",
+      "caféname": "ghfgghgffgfg",
+      "": "male",
+      "id": 2
+    },
+    {
+      "name": "gvgdfgdf",
+      "email": "dfgdfgdffd@dfgdfghdf.com",
+      "phone": "fgdfgdf",
+      "gender": "",
+      "daysworked": "54",
+      "caféname": "ghfghfghfg",
+      "": "male",
+      "id": 3
+    },
+    {
+      "name": "sdsd",
+      "email": "fgdfdf@dfdsfds.com",
+      "phone": "fgfdgfd",
+      "gender": "",
+      "daysworked": "35",
+      "caféname": "ghjghjghjgh",
+      "": "male",
+      "id": 4
+    },
+    {
+      "name": "fghfghfg",
+      "email": "fhfghfghfghgcvvxcb",
+      "phone": "5654654656",
+      "gender": "",
+      "daysworked": "545",
+      "caféname": "gfhfghfg",
+      "": "male",
+      "id": 5
+    },
+    {
+      "name": "rewrewr",
+      "email": "gfhfghfgdf@fhfdfgghd.com",
+      "phone": "543534534",
+      "gender": "",
+      "daysworked": "45",
+      "caféname": "vcxsfddfgdf",
+      "": "male",
+      "id": 6
+    },
+    {
+      "name": "arum",
+      "email": "arun@gmail.com",
+      "phone": "343432423",
+      "gender": "",
+      "daysworked": "34",
+      "caféname": "fwdsdedwerwerwe",
+      "": "male",
+      "id": 7
+    },
+    {
+      "name": "kumar",
+      "email": "dsdds@dfdf.com",
+      "phone": "",
+      "gender": "",
+      "daysworked": "23",
+      "caféname": "dewrewrwe",
+      "": "male",
+      "id": 8
+    }
+  ],
+  "CafesPage": [
+    {
+      "logo": "tes",
+      "name": "kumar",
+      "description": "tester",
+      "employees": "kumar R",
+      "location": "SG",
+      "id": 2
+    },
+    {
+      "logo": "run",
+      "name": "Chandra",
+      "description": "testing",
+      "employees": "Chandra",
+      "location": "Singapore, Singapore",
+      "id": 3
+    },
+    {
+      "logo": "testing",
+      "name": "Raju",
+      "description": "dfdsfsd",
+      "employees": "Raju",
+      "location": "SG",
+      "id": 4
+    }
+  ]
+}
